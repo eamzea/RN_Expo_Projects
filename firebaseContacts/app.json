@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "FirebaseContact",
+    "slug": "FirebaseContact",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/profile_img.png",
+    "splash": {
+      "image": "./assets/logo-signature.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.eamzea.FirebaseContact"
+    },
+    "web": {
+      "favicon": "./assets/profile_img.png"
+    }
+  }
+}
